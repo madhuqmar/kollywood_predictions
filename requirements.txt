@@ -1,0 +1,11 @@
+langchain==0.1.11
+neo4j==5.18.0
+openai==1.13.3
+python-dotenv==1.0.1
+Requests==2.31.0
+requests_html==0.10.0
+setuptools==61.3.1
+setuptools==58.0.4
+streamlit==1.31.0
+streamlit_agraph==0.0.45
+toml==0.10.2
